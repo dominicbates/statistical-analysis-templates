@@ -7,7 +7,8 @@ toy problems:
 using pymc with some useful plots
 - `templates/linear_regression_frequentist.ipynb`: Normal linear 
 regression using statsmodels and displaying model fit
-- `templaces/logistic_regression_bayesian`: Bayesian logistic regression 
+- `templaces/logistic_regression_bayesian.ipynb`: Bayesian logistic 
+regression 
 wth pymc with some useful plots
 
 I also have some useful functions saved in:
