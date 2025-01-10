@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+statsmodel
+pymc
+ipykernel
+jupyterlab
+scipy==1.12
